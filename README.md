@@ -1,4 +1,4 @@
-# Geoguessr-Cheat -Sheet
+# Geoguessr Cheat Sheet
 
 Tips and resources for [GeoGuessr](https://www.geoguessr.com/).
 
